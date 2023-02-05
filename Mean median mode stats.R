@@ -1,4 +1,5 @@
 {
+  #install package psych
   rain=c(10,10,10,10,400,1230,1233)
   rain=na.omit(rain)
   mean(rain)
